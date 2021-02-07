@@ -1,0 +1,5 @@
+name: PluginAdı # pluginin adı
+main: net.teon.pluginadı.Main #Main classına giden yol Buradaki Main dosyası bizim extends PluginBase yaptığımız classın adı
+version: 1.0.0 # sürüm
+author: Adın # senin adın
+api: ["1.0.0"] # burası sabit kalsın
